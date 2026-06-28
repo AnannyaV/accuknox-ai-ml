@@ -55,7 +55,7 @@ In this problem, I read user information from a CSV file and stored it in a SQLi
 
 1. Clone the repository.
 ```bash
-git clone <repository-url>
+git clone https://github.com/AnannyaV/accuknox-ai-ml.git
 ```
 
 2. Navigate to the project directory.
