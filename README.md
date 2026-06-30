@@ -3,7 +3,7 @@ Python-based solutions for API integration, SQLite databases, data processing, v
 
 ### Problem 1: API Data Retrieval and Storage
 
-**Objective**
+**Objective**:
 In this problem, I used the FreeAPI Books API to fetch book details and store the retrieved data in a local SQLite database.
 
 **Approach**
@@ -20,7 +20,7 @@ In this problem, I used the FreeAPI Books API to fetch book details and store th
 
 ### Problem 2: Data Processing and Visualization
 
-**Objective**
+**Objective**:
 In this problem, I used the FreeAPI random users API to fetch user details, assigned sample scores to each user, calculated the average score and visualized the data.
 
 **Approach**
@@ -37,7 +37,7 @@ In this problem, I used the FreeAPI random users API to fetch user details, assi
 
 ### Problem 3: CSV Data Import to SQLite
 
-**Objective**
+**Objective**:
 In this problem, I read user information from a CSV file and stored it in a SQLite database.
 
 **Approach**
